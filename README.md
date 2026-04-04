@@ -41,7 +41,7 @@ Visualized categorical variables using count plots
 * Churn rate is around 26%
 * Senior citizens have higher churn
 
-# 2️⃣ Bivariate Analysis
+## 2️⃣ Bivariate Analysis
 
 * Compared features with churn using boxplots and histograms
 
@@ -51,7 +51,7 @@ Visualized categorical variables using count plots
 * Higher monthly charges lead to higher churn
 * Long-term customers are more loyal
 
-# 3️⃣ Correlation Analysis
+## 3️⃣ Correlation Analysis
 
 * Used heatmap to understand relationships between numerical features
 
@@ -60,38 +60,41 @@ Visualized categorical variables using count plots
 * Strong correlation between Tenure and Total Charges
 * Moderate correlation between Monthly Charges and Total Charges
 
-# 4️⃣ Multivariate Analysis
+## 4️⃣ Multivariate Analysis
 
 * Analyzed churn across multiple variables like contract type
 
-📌 Insights:
+## 📌 Insights:
 
-Month-to-month contracts have highest churn
-Long-term contracts reduce churn significantly
-🚨 Key Findings
-New customers are at the highest risk of churn
-High monthly charges increase churn probability
-Contract type plays a major role in retention
-Electronic check users show higher churn
-Customers without dependents churn more
-💡 Business Recommendations
-Offer incentives for long-term contracts
-Focus on early customer engagement
-Provide discounts for high-paying customers
-Improve payment experience
-Target high-risk groups with retention strategies
-📊 Visualizations
+* Month-to-month contracts have highest churn
+* Long-term contracts reduce churn significantly
 
-The project includes:
+## 🚨 Key Findings
 
-Histograms
-Count plots
-Box plots
-Correlation heatmaps
-📈 Conclusion
+* New customers are at the highest risk of churn
+* High monthly charges increase churn probability
+* Contract type plays a major role in retention
+* Electronic check users show higher churn
+* Customers without dependents churn more
 
-This project highlights how customer churn is influenced by multiple factors such as tenure, pricing, and contract type.
+# 💡 Business Recommendations
+* Offer incentives for long-term contracts
+* Focus on early customer engagement
+* Provide discounts for high-paying customers
+* Improve payment experience
+* Target high-risk groups with retention strategies
 
-By applying targeted strategies, businesses can significantly improve customer retention and reduce churn.
+## 📊 Visualizations
 
-🚀 Future Work
+* The project includes:
+- Histograms
+- Count plots
+- Box plots
+- Correlation heatmaps
+
+# 📈 Conclusion
+
+## This project highlights how customer churn is influenced by multiple factors such as tenure, pricing, and contract type.
+## By applying targeted strategies, businesses can significantly improve customer retention and reduce churn.
+
+
